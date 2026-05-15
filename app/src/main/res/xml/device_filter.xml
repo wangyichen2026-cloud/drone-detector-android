@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ESP32-C3 USB 设备 -->
+    <usb-device vendor-id="4292" product-id="60000" />
+    <!-- 通用 USB 串口设备 -->
+    <usb-device vendor-id="6790" product-id="29987" />
+</resources>
