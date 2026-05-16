@@ -72,7 +72,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
 
     // USB Serial
-    implementation("com.github.felHR85:UsbSerial:6.1.0")
+    implementation("com.github.felhr85:UsbSerial:6.1.0")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
